@@ -7,4 +7,4 @@ Thinkorswim scripts to get price action
 - Import select ts file to import
 
 # Note
-Script is not throughly tested. Use at your own risk. 
+Scripts are not throughly tested and only used for educational purposes. Use at your own risk.  
