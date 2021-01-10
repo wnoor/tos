@@ -1,2 +1,10 @@
-# tos
+# Think or swim Scripts
 Thinkorswim scripts to get price action
+
+# To use
+- Open TOS platfrom
+- Go to edit studies and strategies
+- Import select ts file to import
+
+# Note
+Script is not throughly tested. Use at your own risk. 
